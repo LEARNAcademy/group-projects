@@ -1,16 +1,15 @@
 # Group Projects List/Links
 
+## 2018A
 
-## 2017E
-
-- [BandSurf](http://bandsurf.herokuapp.com/)
-- [Tennis Love](http://tennismatcher.herokuapp.com/)
+- [Trip and Share](http://tripandshare.herokuapp.com)
 
 ## 2017F
 
 - [AKAW|San Diego Surf Spots](http://sd-akaw.herokuapp.com)
 - [Great Date](http://the-great-date-app.herokuapp.com/home)
 
-## 2018A
+## 2017E
 
-- [Trip and Share](http://tripandshare.herokuapp.com)
+- [BandSurf](http://bandsurf.herokuapp.com/)
+- [Tennis Love](http://tennismatcher.herokuapp.com/)
